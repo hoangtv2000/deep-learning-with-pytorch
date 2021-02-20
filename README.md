@@ -1,6 +1,8 @@
 # Lession Introduction to Deep learning with Pytorch. 
 
-**Abstract.** This repo is our work of Introduction to Deep Learing with Pytorch praticing. We study to solve from basic problems (like Linear Regression, MNIST handwriting classification) to advances (GAN,...). 
+**Abstract.** This repo is our work of [Deep Learing with Pytorch: From zero to GAN](https://jovian.ai/aakashns/collections/deep-learning-with-pytorch) praticing. We study to solve from basic problems (like Linear Regression, MNIST handwriting classification) to advances (GAN,...). 
+
+**Course**: 
 
 ## Table of content
 
