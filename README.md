@@ -2,7 +2,7 @@
 
 **Abstract.** This repo is our work of [Deep Learing with Pytorch: From zero to GAN](https://jovian.ai/aakashns/collections/deep-learning-with-pytorch) praticing. We study to solve from basic problems (like Linear Regression, MNIST handwriting classification) to advances (data augmentation, GAN (Generative Adversarial Networks),...). 
 
-**Course**: 
+**Link to course**: [click here](https://jovian.ai/aakashns/collections/deep-learning-with-pytorch)
 
 ## Table of content
 
