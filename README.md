@@ -12,3 +12,28 @@
 4. [Image Classification using Convolutional Neural Networks in PyTorch](https://github.com/thoconvuive/deep_learning_with_pytorch/blob/main/CNN%20with%20pytorch%20from%20scratch.ipynb). Dataset: CIFAR-10.
 5. [Image classification with Residual Net and One-cycle policy](https://github.com/thoconvuive/deep_learning_with_pytorch/blob/main/Image%20classification%20with%20Residual%20net%20and%20One%20cycle%20policy.ipynb). Dataset: CIFAR-10.
 6. [GAN for generating Anime faces](https://github.com/thoconvuive/deep_learning_with_pytorch/blob/main/GAN%20for%20Anime%20face%20dataset.ipynb). Dataset: [Anime face dataset](https://www.kaggle.com/splcher/animefacedataset).
+
+## Result
+For the first 5 projects. Please see results in each notebook. 
+
+### GAN model result: the generation of images per each 5 epochs
+
+**Initial generated image**
+
+![init](https://github.com/thoconvuive/deep_learning_with_pytorch/blob/main/generate/generated-images-0000.png)
+
+**Generated image in epoch 1**
+
+![init](https://github.com/thoconvuive/deep_learning_with_pytorch/blob/main/generate/generated-images-0001.png)
+
+**Generated image in epoch 5**
+
+![init](https://github.com/thoconvuive/deep_learning_with_pytorch/blob/main/generate/generated-images-0005.png)
+
+**Generated image in epoch 15**
+
+![init](https://github.com/thoconvuive/deep_learning_with_pytorch/blob/main/generate/generated-images-0015.png)
+
+**Generated image in epoch 25**
+
+![init](https://github.com/thoconvuive/deep_learning_with_pytorch/blob/main/generate/generated-images-0025.png)
